@@ -1,0 +1,36 @@
+{
+    "videur_1": [
+        [
+            "batard",
+            "player_1"
+        ]
+    ],
+    "videur_2": [
+        [
+            "cool",
+            ""
+        ]
+    ],
+    "videur_3": [
+        [
+            "ouïlle",
+            "player_2"
+        ]
+    ],
+    "player_1": [
+        [
+            "UNSODO",
+            "videur_2"
+        ],
+        [
+            "RESODO",
+            "videur_3"
+        ]
+    ],
+    "player_2": [
+        [
+            "A moi tu me dis pas ouïlle !",
+            ""
+        ]
+    ]
+}

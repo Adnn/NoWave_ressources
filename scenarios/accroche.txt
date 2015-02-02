@@ -1,0 +1,60 @@
+{
+    "videur": {
+        "0drogue_0_0_0": [
+            "",
+            "videur_1"
+        ],
+        "piluleV_1_0_0": [
+            "",
+            "videur_2"
+        ],
+        "piluleV_1_1_0": [
+            "",
+            "videur_3"
+        ],
+        "piluleR_1_0_0": [
+            "",
+            "videur_2"
+        ],
+        "piluleR_1_1_0": [
+            "",
+            "videur_3"
+        ]
+    },
+    "meuf": {
+        "piluleV_0_0_+": [
+            "player_8",
+            ""
+        ],
+        "piluleV_0_0_-": [
+            "player_9",
+            ""
+        ],
+        "piluleR_0_0_+": [
+            "player_10",
+            ""
+        ],
+        "piluleR_0_0_-": [
+            "player_11",
+            ""
+        ]
+    },
+    "scene": {
+        "piluleV_0_0_+": [
+            "player_12",
+            ""
+        ],
+        "piluleV_0_0_-": [
+            "player_13",
+            ""
+        ],
+        "piluleR_0_0_+": [
+            "player_14",
+            ""
+        ],
+        "piluleR_0_0_-": [
+            "player_15",
+            ""
+        ]
+    }
+}

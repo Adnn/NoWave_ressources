@@ -1,0 +1,295 @@
+{
+    "player_1": [
+        [
+            "Ouais",
+            "player_1oui"
+        ],
+        [
+            "Non",
+            "player_1non"
+        ]
+    ],
+    "player_1oui": [
+        [
+            "Ouais",
+            "videur_4"
+        ]
+    ],
+    "player_1non": [
+        [
+            "Non",
+            "videur_6"
+        ]
+    ],
+    "player_2": [
+       [
+        "Du genre?",
+        "videur_5"
+       ]
+    ],
+    "player_3": [
+        [
+            "La verte",
+            "player_3verte"
+        ],
+        [
+            "La rouge",
+            "player_3rouge"
+        ]
+    ],
+    "player_3verte": [
+        [
+            "La verte",
+            "player_4"
+        ]
+    ],
+    "player_3rouge": [
+        [
+            "La rouge",
+            "player_5"
+        ]
+    ],
+    "player_4": [
+        [
+            "Merci, mec",
+            "player_4merci"
+        ],
+        [
+            "Cool, connard",
+            "player_4connard"
+        ]
+    ],
+    "player_4merci": [
+        [
+            "Merci, mec",
+            ""
+        ]
+    ],
+    "player_4connard": [
+        [
+            "Cool, connard",
+            ""
+        ]
+    ],
+    "player_5": [
+        [
+            "Weird",
+            "player_5weird"
+        ],
+        [
+            "*Crache*",
+            "player_5crache"
+        ]
+    ],
+    "player_5weird": [
+        [
+            "Weird",
+            ""
+        ]
+    ],
+    "player_5crache": [
+        [
+            "*Crache*",
+            ""
+        ]
+    ],
+    "player_6": [
+        [
+            "Vas-y donne",
+            "player_3"
+        ]
+    ],
+    "player_7": [
+        [
+            "Ouais ouais... file moi plutôt ton produit miracle",
+            "player_3"
+        ]
+    ],
+    "player_8": [
+        [
+            "Salut. Pas mal le groupe de ce soir, non?",
+            "meuf_1"
+        ]
+    ],
+    "player_9": [
+        [
+            "Bonsoir, c'est plutôt calme ce soir non?",
+            "player_9seule"
+        ],
+        [
+            "Vous m'avez l'air bizarre, un problème?",
+            "player_9seule"
+        ]
+    ],
+    "player_9seule": [
+        [
+            "Hey toi! Tu sais que tu es plutôt pas mal dans ton genre?",
+            "meuf_2"
+        ]
+    ],
+    "player_10": [
+        [
+            "Charmante",
+            "meuf_3"
+        ]
+    ],
+    "player_11": [
+        [
+            "*Siffle*",
+            "meuf_4"
+        ]
+    ],
+    "player_12": [
+        [
+            "Bordel, vous êtes trop bon les mecs.",
+            "groupe_1"
+        ]
+    ],
+    "player_13": [
+        [
+            "Journée de merde, heureusement que vous êtes là.",
+            "groupe_2"
+        ]
+    ],
+    "player_14": [
+        [
+            "*Hurle* ROWLAND I love you!",
+            "groupe_3"
+        ]
+    ],
+    "player_15": [
+        [
+            "Mais c'est quoi cette merde? PLUS FORT LE CHANTEUR!",
+            "groupe_4"
+        ]
+    ],
+    "player_16": [
+        [
+            "Ouais mais il mettent une ambiance de ouf, non ?",
+            "player_16ouf"
+        ],
+        [
+            "Pourquoi tu viens ici si t'aimes pas la musique ?",
+            "player_16ici"
+        ]
+    ],
+    "player_16ouf": [
+        [
+            "Ouais mais il mettent une ambiance de ouf, non ?",
+            "meuf_5"
+        ]
+    ],
+    "player_16ici": [
+        [
+            "Pourquoi tu viens ici si t'aimes pas la musique ?",
+            "meuf_6"
+        ]
+    ],
+    "player_17": [
+        [
+            "Non, autant que je me barre",
+            ""
+        ]
+    ],
+    "player_18": [
+        [
+            "Avec plaisir",
+            ""
+        ]
+    ],
+    "player_19": [
+        [
+            "Excusez-moi, mes mots ont dépassés ma pensée",
+            "player_19fuck"
+        ],
+        [
+            "C'est pas moi, ça venait de derrière...",
+            "player_19fuck"
+        ]
+    ],
+    "player_19fuck": [
+        [
+            "Allez quoi, je suis certains que tu changeras bientôt d'avis",
+            "meuf_7"
+        ]
+    ],
+
+        "videur_1": [
+        [
+            "Salut, ne fais pas attendre les autres. C’est la première fois que tu viens ici, non ?",
+            "player_1"
+        ]
+    ],
+    "videur_2": [
+        [
+            "Salut mec. Je me souviens que tu as bien apprécié ta soirée la dernière fois. Tu veux remettre ça ?",
+            "player_6"
+        ]
+    ],
+    "videur_3": [
+        [
+            "Toi! Tu as du culot de revenir après la dernière soirée. Au moindre écart tu dégages.",
+            "player_7"
+        ]
+    ],
+    "videur_4": [
+        [
+            "Tu cherches quelque chose pour rendre ta soirée un peu plus excitante ? J’ai ce qu’il se fait de mieux",
+            "player_2"
+        ]
+    ],
+    "videur_5": [
+        [
+            "T’as le choix entre la verte ou la rouge.",
+            "player_3"
+        ]
+    ],
+    "videur_6": [
+        [
+            "Tu te fous de ma gueule ? Je connais tout le monde ici, et toi, je t'ai jamais vu trainer dans le coin.",
+            "videur_4"
+        ]
+    ],
+    "meuf_1": [
+        [
+            "Bof, c'est trop fort et ultra répétitif.",
+            "player_16"
+        ]
+    ],
+    "meuf_2": [
+        [
+            "... c'est pas ton cas.",
+            "player_19"
+        ]
+    ],
+    "meuf_3": [
+        [
+            "...",
+            ""
+        ]
+    ],
+    "meuf_4": [
+        [
+            "...",
+            ""
+        ]
+    ],
+    "meuf_5": [
+        [
+            "C'est pas mon truc mais l'ambiance est bonne pour danser. Tu veux nous rejoindre un peu plus tard ?",
+            "player_17"
+        ]
+    ],
+    "meuf_6": [
+        [
+            "Je suis venue avec des amies. Rejoins nous pour danser un peu plus tard",
+            "player_18"
+        ]
+    ],
+    "meuf_7": [
+        [
+            "C'est ça dégage tocard!",
+            ""
+        ]
+    ]
+}
